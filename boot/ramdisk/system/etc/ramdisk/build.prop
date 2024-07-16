@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=samsung
+ro.product.bootimage.device=a05m
+ro.product.bootimage.manufacturer=samsung
+ro.product.bootimage.model=SM-A055F
+ro.product.bootimage.name=a05mxx
+ro.bootimage.build.date=Tue Jun  4 17:32:47 +07 2024
+ro.bootimage.build.date.utc=1717497167
+ro.bootimage.build.fingerprint=samsung/a05mxx/a05m:12/SP1A.210812.016/A055FXXU4CXF1:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=A055FXXU4CXF1
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=mtp
+# end of file
+
