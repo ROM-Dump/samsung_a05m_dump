@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.sec.android.app.camera.sticker">
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <!--  + Bug 537021,liukeyang.wt,modify,2022/03/09,add Qrcdoe function-->
+        <permission name="android.permission.STATUS_BAR"/>
+        <!--  - Bug 537021,liukeyang.wt,modify,2022/03/09,add Qrcdoe function-->
+        <!--    +bug 537021,zhuqingsong.wt,modify,2022/01/25,add new phone state permission-->
+        <permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <!--    -bug 537021,zhuqingsong.wt,modify,2022/01/25,add new phone state permission-->
+        <permission name="android.permission.READ_MEDIA_IMAGES"/>
+        <permission name="android.permission.READ_MEDIA_VIDEO"/>
+        <permission name="android.permission.READ_MEDIA_AUDIO"/>
+        <!-- EXTB P220913-08292 , xionglin2.wt, add, 2022/09/30, add notification permission for android T -->
+        <permission name="android.permission.POST_NOTIFICATIONS"/>
+    </privapp-permissions>
+</permissions>

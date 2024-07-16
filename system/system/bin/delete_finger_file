@@ -1,0 +1,5 @@
+#! /system/bin/sh
+
+rm -rf /data/system_ce/0/*
+rm -rf /data/system_de/0/*
+rm -rf data/system/locksettings.db*
