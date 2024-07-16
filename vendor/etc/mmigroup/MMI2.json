@@ -1,0 +1,27 @@
+{
+  "itemConfig": [
+    {
+      "showName": "LCD",
+      "paramconfig": {
+        "auto_switch": false,
+        "lcd_pic": [
+          "L255=2000",
+          "G=2000",
+          "L127=2000"
+        ]
+      }
+    },
+    {
+      "showName": "MainCamera"
+    },
+    {
+      "showName": "DepthCamera"
+    },
+    {
+      "showName": "DualBackCamera"
+    },
+    {
+      "showName": "FrontCamera"
+    }
+  ]
+}

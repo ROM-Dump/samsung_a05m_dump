@@ -1,0 +1,5 @@
+# Create carrier folder for HiddenMenu
+on post-fs
+    mkdir /efs/carrier 0755 radio system
+    chown radio system /efs/carrier
+    chown radio system /efs/carrier/HiddenMenu    

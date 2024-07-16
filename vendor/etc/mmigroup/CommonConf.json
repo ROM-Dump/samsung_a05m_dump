@@ -1,0 +1,151 @@
+{
+  "item": {
+    "Receiver": {
+      "support": true,
+      "P81080": {
+        "support": false
+      }
+    },
+    "FM": {
+      "support": true
+    },
+    "HeadPhone": {
+      "support": true
+    },
+    "Speaker": {
+      "support": true
+    },
+    "HighSpeaker": {
+      "support": true
+    },
+    "HighReceiver": {
+      "support": true
+    },
+    "LeftSpeaker": {
+      "support": false
+    },
+    "RightSpeaker": {
+      "support": false
+    },
+    "MainMic": {
+      "support": true
+    },
+    "MainMic2": {
+      "support": true
+    },
+    "SubMic": {
+      "support": true
+    },
+    "SubMic2": {
+      "support": false
+    },
+    "SMARTPA": {
+      "support": true
+    },
+    "FrontCamera": {
+      "support": true
+    },
+    "FrontCamera2": {
+      "support": false
+    },
+    "MainCamera": {
+      "support": true
+    },
+    "MainCamera2": {
+      "support": true
+    },
+    "WideCamera": {
+      "support": true
+    },
+    "Wide_angleCamera": {
+      "support": true
+    },
+    "MacroCamera": {
+      "support": true
+    },
+    "MacroCamera_RAW": {
+      "support": true
+    },
+    "DepthCamera": {
+      "support": true
+    },
+    "DualBackCamera": {
+      "support": true
+    },
+    "MainCamera_RAW": {
+      "support": true
+    },
+    "WideCamera_RAW": {
+      "support": false
+    },
+    "DepthCamera_RAW": {
+      "support": true
+    },
+    "FrontCamera_RAW": {
+      "support": true
+    },
+    "Camera_RAW_Flashlight": {
+      "support": true
+    },
+    "Camera_Flashlight": {
+      "support": true
+    },
+    "Flashlight": {
+      "support": true
+    },
+    "Accelerometer": {
+      "support": true
+    },
+    "Gyroscope": {
+      "support": true
+    },
+    "Proximity": {
+      "support": true
+    },
+    "Magnetic": {
+      "support": true
+    },
+    "Sar": {
+      "support": true
+    },
+    "Sar1": {
+      "support": true
+    },
+    "Sar2": {
+      "support": true
+    },
+    "Optical": {
+      "support": true
+    },
+    "Hall": {
+      "support": false
+    },
+    "NFC": {
+      "support": true
+    },
+    "NFC_Test": {
+      "support": true
+    },
+    "fingerprint": {
+      "support": true
+    },
+    "Infrared": {
+      "support": false
+    },
+    "LED": {
+      "support": false
+    },
+    "Vibrator": {
+      "support": true
+    },
+    "Pressure": {
+      "support": true
+    },
+    "NormalCharge": {
+      "support": true
+    },
+    "FastCharge": {
+      "support": true
+    }
+  }
+}

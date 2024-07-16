@@ -1,0 +1,19 @@
+{
+  "itemConfig": [
+    {
+      "showName": "MainCamera"
+    },
+    {
+      "showName": "DepthCamera"
+    },
+    {
+      "showName": "DualBackCamera"
+    },
+    {
+      "showName": "MacroCamera"
+    },
+    {
+      "showName": "FrontCamera"
+    }
+  ]
+}

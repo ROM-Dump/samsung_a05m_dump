@@ -1,0 +1,135 @@
+{
+  "itemConfig": [
+    {
+      "showName": "Accelerometer",
+      "paramconfig": {
+        "support_calibrate": false,
+        "support_axialresult": true,
+        "support_angle45": false,
+        "support_angleneg45": false,
+        "is_auto_calibrate": true
+      }
+    },
+    {
+      "showName": "Accelerometer_C",
+      "paramconfig": {
+        "support_calibrate": false,
+        "support_axialresult": true,
+        "support_angle45": false,
+        "support_angleneg45": false,
+        "is_auto_calibrate": true
+      }
+    },
+    {
+      "showName": "Optical_c"
+    },
+    {
+      "showName": "Optical",
+      "paramconfig": {
+        "value_change_in": 0
+      }
+    },
+    {
+      "showName": "Proximity_C"
+    },
+    {
+      "showName": "Proximity",
+      "action": "com.mmigroup.action.PROXIMITY",
+      "support": true,
+      "paramconfig": {
+        "distance_tolerance": 0.5
+      }
+    },
+    {
+      "showName": "Proximity_st"
+    },
+    {
+      "showName": "Gyroscope_C",
+      "paramconfig": {
+        "support_calibrate": true,
+        "support_test": true,
+        "is_auto_calibrate": true
+      }
+    },
+    {
+      "showName": "Magnetic"
+    },
+    {
+      "showName": "Magnetic_C"
+    },
+    {
+      "showName": "Pressure_C",
+      "action": "com.mmigroup.action.PRESSURE_C",
+      "support": true
+    },
+    {
+      "showName": "Pressure",
+      "action": "com.mmigroup.action.PRESSURE",
+      "support": true
+    },
+    {
+      "showName": "Hall"
+    },
+    {
+      "showName": "Hall2"
+    },
+    {
+      "showName": "MainCamera",
+      "paramconfig": {
+        "takepicture_not_save_picture": true,
+        "support_takepicture": true,
+        "auto_takepicture": false
+      }
+    },
+    {
+      "showName": "DepthCamera",
+      "paramconfig": {
+        "takepicture_not_save_picture": true,
+        "support_takepicture": true,
+        "auto_takepicture": false
+      }
+    },
+    {
+      "showName": "WideCamera",
+      "paramconfig": {
+        "takepicture_not_save_picture": true,
+        "support_takepicture": true,
+        "auto_takepicture": false
+      }
+    },
+    {
+      "showName": "FrontCamera",
+      "paramconfig": {
+        "takepicture_not_save_picture": true,
+        "support_takepicture": true,
+        "auto_takepicture": false
+      }
+    },
+    {
+      "showName": "Vibrator",
+      "paramconfig": {
+        "is_auto_vibrate": true,
+        "randomVibSupport": false,
+        "shortInterval": [
+          200,
+          200
+        ],
+        "longInterval": [
+          200,
+          1000
+        ],
+        "randomInterval": [
+          6,
+          400,
+          400
+        ]
+      }
+    },
+    {
+      "showName": "Speaker"
+    },
+    {
+      "showName": "Receiver"
+    }
+  ]
+}

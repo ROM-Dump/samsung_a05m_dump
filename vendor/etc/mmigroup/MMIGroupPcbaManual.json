@@ -1,0 +1,143 @@
+{
+  "itemConfig": [
+    {
+      "showName": "VersionInfo",
+      "paramconfig": {
+        "support_camera_match": false
+      }
+    },
+    {
+      "showName": "KeyPad"
+    },
+    {
+      "showName": "Vibrator",
+      "paramconfig": {
+        "is_auto_vibrate": false
+      }
+    },
+    {
+      "showName": "LCD",
+      "paramconfig": {
+        "auto_switch": false,
+        "lcd_pic": [
+          "Color_R",
+          "Color_G",
+          "Color_B",
+          "Color_W",
+          "Color_BL"
+        ]
+      }
+    },
+    {
+      "showName": "MainCamera",
+      "paramconfig": {
+        "support_camera_match": false
+      }
+    },
+    {
+      "showName": "DepthCamera",
+      "paramconfig": {
+        "support_camera_match": false
+      }
+    },
+    {
+      "showName": "FrontCamera"
+    },
+    {
+      "showName": "LightTEST"
+    },
+    {
+      "showName": "Speaker"
+    },
+    {
+      "showName": "Receiver"
+    },
+    {
+      "showName": "FM"
+    },
+    {
+      "showName": "MainMicToReceiver"
+    },
+    {
+      "showName": "SubMicToSpeaker"
+    },
+    {
+      "showName": "HeadSet",
+      "paramconfig": {
+        "keyCode": [
+          "HEADSETHOOK"
+        ]
+      }
+    },
+    {
+      "showName": "HsMicToHeadPhone",
+      "paramconfig": {
+        "needHeadsetUnPlug": true
+      }
+    },
+    {
+      "showName": "TouchPal"
+    },
+    {
+      "showName": "Battery",
+      "paramconfig": {
+        "support_afc_charge": false,
+        "support_pd_charge": false
+      }
+    },
+    {
+      "showName": "SdCard"
+    },
+    {
+      "showName": "DualSIMCard"
+    },
+    {
+      "showName": "Wlan"
+    },
+    {
+      "showName": "Bluetooth",
+      "paramconfig": {
+        "support_device_name": false,
+        "support_device_address": true
+      }
+    },
+    {
+      "showName": "GPS"
+    },
+    {
+      "showName": "OTG",
+      "paramconfig": {
+        "support_typec": true
+      }
+    },
+    {
+      "showName": "Accelerometer",
+      "paramconfig": {
+        "support_calibrate": true,
+        "support_axialresult": true,
+        "support_angle45": false,
+        "support_angleneg45": false,
+        "is_auto_calibrate": false,
+        "support_plus_or_minus_45_degrees_either_pass_through": false,
+        "autoTest": {
+          "support_calibrate": false
+        }
+      }
+    },
+    {
+      "showName": "Optical",
+      "paramconfig": {
+        "lux_max": 0,
+        "lux_min": 0,
+        "is_check_range": false,
+        "value_change_in": 0
+      }
+    },
+    {
+      "showName": "Proximity"
+    },
+    {
+      "showName": "Sar"
+    }
+  ]
+}
